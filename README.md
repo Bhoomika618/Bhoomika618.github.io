@@ -24,6 +24,19 @@ This project demonstrates how to convert a desktop layout into a mobile-friendly
 - Chrome DevTools (for testing)
 
 ---
+Screenshots
+
+<img width="1915" height="966" alt="event-1" src="https://github.com/user-attachments/assets/905894cc-6aba-479c-be28-edb1902bdb30" /><br /><br /><br />
+
+
+
+<img width="1913" height="1076" alt="event-2" src="https://github.com/user-attachments/assets/05fc9cda-1975-4706-a9d8-d62a12e9f12f" />
+
+
+
+
+
+
 
 ## 📱 Responsive Design
 
@@ -45,4 +58,5 @@ Overflow issues fixed
 Understanding responsive web design
 Using media queries effectively
 Testing layouts with Chrome DevTools
+
 
